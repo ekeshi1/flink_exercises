@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="81e20120-0d84-40e2-bc2c-ae5d2bc28837" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/azure/azureSettings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/LinearRoadSource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/RawEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/SpeedEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/WatermarkAssigner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/WindowLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/avgspeed/AverageSpeed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/avgspeed/AverageSpeedCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/exercises/FirstExercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/exercises/FourthExercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/exercises/SecondExercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/exercises/ThirdExercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/minmax/Diff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/minmax/DiffCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2B4VGYoVcYIC44iUmDxkzzMkH7P" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/ekeshi/Documents/diploma/first-flink-job/src/main/resources",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.keymap"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.example" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/org/example" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.org.example.FourthExercise">
+    <configuration name="FirstExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.exercises.FirstExercise" />
+      <module name="first-flink-job" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FourthExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.exercises.FourthExercise" />
+      <module name="first-flink-job" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SecondExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.exercises.SecondExercise" />
+      <module name="first-flink-job" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThirdExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.exercises.ThirdExercise" />
+      <module name="first-flink-job" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.example.StreamingJob" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.StreamingJob" />
+      <module name="first-flink-job" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.minmax.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.org.example.FourthExercise" />
+        <item itemvalue="Application.org.example.ThirdExercise" />
+        <item itemvalue="Application.SecondExercise" />
+        <item itemvalue="Application.FirstExercise" />
+        <item itemvalue="Application.org.example.StreamingJob" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="81e20120-0d84-40e2-bc2c-ae5d2bc28837" name="Changes" comment="" />
+      <created>1656165249847</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656165249847</updated>
+      <workItem from="1656165252104" duration="2722000" />
+      <workItem from="1656169488143" duration="11446000" />
+      <workItem from="1656435649871" duration="3856000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/exercises/FourthExercise.java</url>
+          <line>12</line>
+          <properties class="org.example.FourthExercise" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
